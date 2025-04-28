@@ -4,6 +4,52 @@
   <meta charset="UTF-8">
   <title>Ingredient Substitution Finder</title>
   <style>
+    /* Set a nice background and center everything */
+    body {
+      background-color: #f0f8ff; /* Light blue background */
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh; /* Full screen height */
+      margin: 0;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      width: 250px;
+      border: 2px solid #4CAF50;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #4CAF50; /* Green button */
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    button:hover {
+      background-color: #45a049; /* Darker green on hover */
+    }
+
+    #result {
+      margin-top: 20px;
+      text-align: center;
+    }
+
     .error {
       color: red;
       font-weight: bold;
@@ -11,6 +57,7 @@
   </style>
 </head>
 <body>
+
   <h1>Ingredient Substitution Finder</h1>
 
   <input type="text" id="ingredientInput" placeholder="Enter an ingredient">
@@ -18,7 +65,7 @@
 
   <div id="result"></div>
 
-  <!-- This connects your JavaScript to the webpage -->
   <script src="script.js"></script>
+
 </body>
 </html>
