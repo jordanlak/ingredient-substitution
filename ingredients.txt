@@ -1,0 +1,7 @@
+{
+  "milk": "almond milk",
+  "butter": "coconut oil",
+  "egg": "applesauce",
+  "flour": "oat flour",
+  "sugar": "honey"
+}
