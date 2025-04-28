@@ -1,17 +1,17 @@
 {
-"milk": "almond milk"
-"egg": "mashed banana"
-"butter": "applesauce"
-"flour": "almond flour"
-"sugar": "honey"
-"breadcrumbs": "crushed nuts"
-"cream": "coconut cream"
-"chocolate": "carob chips"
-"vinegar": "lemon juice"
-"oregano": "basil"
-"sour cream": "greek yogurt"
-"vegetable oil": "olive oil"
-"salt": "herbs"
-"chicken": "tofu"
-"beef": "mushrooms"
+  "milk": "almond milk",
+  "egg": "mashed banana",
+  "butter": "applesauce",
+  "flour": "almond flour",
+  "sugar": "honey",
+  "breadcrumbs": "crushed nuts",
+  "cream": "coconut cream",
+  "chocolate": "carob chips",
+  "vinegar": "lemon juice",
+  "oregano": "basil",
+  "sour cream": "greek yogurt",
+  "vegetable oil": "olive oil",
+  "salt": "herbs",
+  "chicken": "tofu",
+  "beef": "mushrooms"
 }
